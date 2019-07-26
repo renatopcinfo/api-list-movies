@@ -5,5 +5,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Run
 
-Run `ng serve` and navigate to `http://localhost:4200/`.
+`ng serve` and navigate to `http://localhost:4200/`.
 
